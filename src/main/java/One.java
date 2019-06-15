@@ -5,7 +5,6 @@ import java.util.Scanner;
  */
 public class One {
 
-
     public static void main(String[] args) {
         Two two = new Two();
         Scanner scanner = new Scanner(System.in) ;
