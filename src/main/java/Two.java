@@ -9,12 +9,12 @@ public class Two {
     }
 
     public static void multiply(int i, int j){
-        int mul = i*j;
-        System.out.println("Mult = "+ mul);
+        int multiply = i*j;
+        System.out.println("Mult = "+ multiply);
     }
 
     public static void subtract(int i, int j){
-        int sub = i-j;
-        System.out.println("Subtract = "+ sub);
+        int subtraction = i-j;
+        System.out.println("Subtract = "+ subtraction);
     }
 }
