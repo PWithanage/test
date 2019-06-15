@@ -16,6 +16,7 @@ public class One {
         Integer input2 = scanner.nextInt();  // Read user input
 
         two.add(input1,input2);
+        two.multiply(input1,input2);
         two.subtract(input1,input2);
 
     }
