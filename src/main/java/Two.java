@@ -7,4 +7,9 @@ public class Two {
         int sum = i+j;
         System.out.println("Sum = "+ sum);
     }
+
+    public static void subtract(int i, int j){
+        int sub = i-j;
+        System.out.println("Subtract = "+ sub);
+    }
 }
