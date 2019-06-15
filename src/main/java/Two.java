@@ -8,6 +8,11 @@ public class Two {
         System.out.println("Sum = "+ sum);
     }
 
+    public static void multiply(int i, int j){
+        int mul = i*j;
+        System.out.println("Mult = "+ mul);
+    }
+
     public static void subtract(int i, int j){
         int sub = i-j;
         System.out.println("Subtract = "+ sub);
