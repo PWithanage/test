@@ -15,6 +15,6 @@ public class Two {
 
     public static void subtract(int i, int j){
         int subtraction = i-j;
-        System.out.println("Subtract = "+ subtraction);
+        int division = i/j;
     }
 }
