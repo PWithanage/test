@@ -11,14 +11,12 @@ public class One {
         Scanner scanner = new Scanner(System.in) ;
 
         System.out.print("Enter num 1 : ");
-
         Integer input1 = scanner.nextInt();  // Read user input
-
         System.out.print("Enter num 2 : ");
-
         Integer input2 = scanner.nextInt();  // Read user input
 
         two.add(input1,input2);
+        two.subtract(input1,input2);
 
     }
 }
